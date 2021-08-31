@@ -14,6 +14,8 @@ Insecure/Vulnerable Firebase Databases are those databases in which firebase rul
 
 # How to Find Insecure/Vulnerable Firebase Databases in Mobile Applications:
     
+Concept Video:
+[![Concept Video](https://img.youtube.com/vi/mnTLrNrk93Q/0.jpg)](https://www.youtube.com/watch?v=mnTLrNrk93Q)
 
 # How to Secure Insecure/Vulnerable Firebase Databases:
 To secure in Insecure/Vulnerable Firebase Database Goto ```https://console.firebase.google.com/```. Select your project >> Goto Realtime Database(from left side bar) >> Click on Rules. Update your Rules from 
@@ -54,4 +56,4 @@ Then Enter your path your you want to write data to check permissions.
 
 # Thanks You All
 
-Subscribe my youtube: https://www.youtube.com/channel/UC8NMTViw3aKOH-NU0ZYQcTA
+Subscribe my youtube: https://www.youtube.com/c/shawalahmadmohmandofficail
